@@ -1,2 +1,6 @@
 # README.md
-Just Started using github.
+# Hello, I'm Samuel! 👋
+- 🌱 I’m currently learning GitHub.
+- 🚀 I love coding and open-source projects.
+
+
